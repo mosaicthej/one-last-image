@@ -47,7 +47,7 @@ header p {
   bottom: 0;
   z-index: 1;
   background: #FFF;
-  animation: loadingBoxopacityIn 4s ease;
+  animation: loadingBoxopacityIn 0s ease; /* annoying */
 }
 .loading-box h2 {
   line-height: 100px;
